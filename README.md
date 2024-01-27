@@ -17,7 +17,7 @@ As a cybersecurity student, I believe in the importance of continuous learning. 
 
 
 #### 🚀 Future Cyber Defender:
-With a goal to become a cybersecurity professional, I am dedicated to developing expertise in areas such as penetration testing, network security, and incident response. Every challenge is an opportunity to learn and strengthen my cyber defenses.
+With a goal to become a cybersecurity professional, I am dedicated to developing expertise in areas such as penetration testing, network security, and incident response. Every challenge is an opportunity to learn and strengthen my cyber defenses!
 
 #### 🌐 Connect with Me:
 Let's collaborate and learn together! Feel free to explore my projects, share insights, or connect with me on social media. Together, we can contribute to building a more secure digital future!
